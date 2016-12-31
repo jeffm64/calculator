@@ -1,0 +1,1 @@
+Working calculator with basics math operations such as add, subtract, multiply, and divide. Works with decimals and negatives as well.
